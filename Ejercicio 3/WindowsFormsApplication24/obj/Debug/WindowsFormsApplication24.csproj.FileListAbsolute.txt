@@ -1,0 +1,17 @@
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.pdb
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.csprojResolveAssemblyReference.cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.Form1.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.Cache
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.exe
+c:\users\inf-322\documents\visual studio 2012\Projects\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.pdb
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.exe
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\bin\Debug\WindowsFormsApplication24.pdb
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.Form1.resources
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.Properties.Resources.resources
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.exe
+C:\Users\Administrador\Downloads\Telegram Desktop\WindowsFormsApplication24\WindowsFormsApplication24\obj\Debug\WindowsFormsApplication24.pdb
